@@ -164,3 +164,10 @@ poetry.toml
 pyrightconfig.json
 
 ctpcopro\Extranet du cabinet CSJC _ connexion_fichiers
+suivi_copro.sqlite
+ctpcopro/coproprietaires.sqlite
+ctpcopro/Extranet du cabinet CSJC _ Accès Copropriétaire.htm
+ctpcopro/Extranet du cabinet CSJC _ connexion.htm
+ctpcopro/Solde_copro2.htm
+ctpcopro/Solde_copro2_fichiers
+ctpcopro/Extranet du cabinet CSJC _ connexion_fichiers

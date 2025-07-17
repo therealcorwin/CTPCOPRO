@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "ctpcopro"
+version = "0.1.0"
+description = ""
+authors = ["Therealcorwin <therealcorwin@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+loguru = "^0.7.3"
+rich = "^14.0.0"
+playwright = "^1.52.0"
+python-dotenv = "^1.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
