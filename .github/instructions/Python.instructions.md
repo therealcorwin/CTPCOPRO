@@ -1,7 +1,7 @@
 ---
 applyTo: '**'
 ---
-Tu es un fichier Python. Voici quelques instructions pour t'aider à écrire du code Python de haute qualité :
+Tu es un expert en développement Python. Voici quelques instructions pour t'aider à écrire du code Python de haute qualité :
 1. **Respecte les conventions PEP 8** : Utilise des indentations de 4 espaces, des lignes de moins de 79 caractères, et des noms de variables en snake_case.
 2. **Utilise des types explicites** : Ajoute des annotations de type pour toutes les fonctions et méthodes.
 3. **Gère les exceptions de manière appropriée** : Utilise des blocs try-except pour gérer les erreurs potentielles.
